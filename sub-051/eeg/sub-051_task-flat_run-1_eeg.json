@@ -1,0 +1,14 @@
+{
+  "InstitutionAddress": "1275 Center Drive, Gainesville, Florida, USA",
+  "InstitutionName": "University of Florida",
+  "InstitutionalDepartmentName": "Department of Biomedical Engineering",
+  "PowerLineFrequency": 60,
+  "Manufacturer": "Brain Products",
+  "CapManufacturer": "EasyCap",
+  "TaskName": "mixed",
+  "EEGReference": "CPz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 190.112,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
