@@ -1,0 +1,6 @@
+onset	duration	sample	value
+-0.001	9103.812	-0.5	boundary
+4.999025698	0.002	2499.5128	spare-T  1
+4.999025698	0	2499.5128	TrialStart
+185.068742	0.002	92534.371	spare-T  1
+185.068742	0	92534.371	TrialEnd
